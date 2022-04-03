@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptingCommands", "Decry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossRush", "BossRush\BossRush.csproj", "{D41D5B86-6B2C-455A-A811-16C7898F3330}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildZoo", "WildZoo\WildZoo.csproj", "{492D1B6C-3F80-4E7D-BB7A-F3C8FB1A8A3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D41D5B86-6B2C-455A-A811-16C7898F3330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D41D5B86-6B2C-455A-A811-16C7898F3330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D41D5B86-6B2C-455A-A811-16C7898F3330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492D1B6C-3F80-4E7D-BB7A-F3C8FB1A8A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492D1B6C-3F80-4E7D-BB7A-F3C8FB1A8A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492D1B6C-3F80-4E7D-BB7A-F3C8FB1A8A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492D1B6C-3F80-4E7D-BB7A-F3C8FB1A8A3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
